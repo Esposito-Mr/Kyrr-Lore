@@ -1,7 +1,6 @@
 ---
-title: "Read Me"
+title: Read Me
 draft: false
 tags:
-  - 
 ---
  
