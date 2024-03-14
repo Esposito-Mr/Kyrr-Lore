@@ -4,9 +4,9 @@ draft: false
 tags:
   - City
 ---
- 
-Como um farol de luz em meio às cicatrizes de Traeg Gros, há mil anos surgiu Nouvelle vie, um farol de esperança. Fundada pela carismática Anya Lumière, a cidade da união atraiu diversas raças em busca de refúgio e um novo começo. Sob a liderança de um conselho multirracial, Nouvelle vie prospera através da cooperação e inovação. No entanto, a cidade também enfrenta dilemas éticos decorrentes do pacto firmado com a nação tecnologicamente avançada de Astus. Nouvelle vie se ergue como um símbolo de resiliência, representando a esperança em um mundo eternamente transformado pelo Cataclismo.
+ Como um farol de luz em meio às cicatrizes de Traeg Gros, há mil anos surgiu Nouvelle vie, um farol de esperança. Fundada pela carismática Anya Lumière, a cidade da união atraiu diversas raças em busca de refúgio e um novo começo. Sob a liderança de um conselho multirracial, Nouvelle vie prospera através da cooperação e inovação. No entanto, a cidade também enfrenta dilemas éticos decorrentes do pacto firmado com a nação tecnologicamente avançada de Astus. Nouvelle vie se ergue como um símbolo de resiliência, representando a esperança em um mundo eternamente transformado pelo Cataclismo.
 
+![[Marania-2024-03-13-12-50.webp | Mapa da Cidade de *Nouvelle Vie*]]
 
 ## A ascensão de Nouvelle vie
 Após a cisão, os assentamentos dispersos por Traeg Gros enfrentaram constantes ameaças de criaturas monstruosas e magia imprevisível. Há cerca de 1000 anos, uma líder carismática surgiu na região centro-norte, uma humana chamada Anya Lumière. Anya, dotada de excepcional talento em magia normal, reuniu várias comunidades e liderou a construção de uma grande cidade, Nouvelle vie.
