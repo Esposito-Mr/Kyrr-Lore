@@ -9,7 +9,7 @@ Fundada milênios antes do Cataclismo, Ael'nor floresceu sob o reinado da Dinast
 
 Sua capital, Eryn Galen (Bosque da Luz Estelar), era um testemunho de seu domínio da magia e arquitetura. Suas estruturas, infundidas com poderosos encantamentos, pulsavam com energia mágica e serviam como um centro de aprendizado e inovação.
 
-A sociedade élfica prosperava na harmonia e no respeito por todos os seres vivos. Eram artesãos habilidosos, capazes de criar objetos intrincados imbuídos de propriedades mágicas. Seu relacionamento com o mundo natural era profundamente entrelaçado, com druidas e rangers ocupando posições de alta estima.
+A sociedade élfica prosperava na harmonia e no respeito por todos os seres vivos. Eram artesãos habilidosos, capazes de criar objetos intrincados imbuídos de propriedades mágicas. Seu relacionamento com o mundo natural era profundamente entrelaçado, com druidas e Patrulheiros ocupando posições de alta estima.
 
 ### A Ascensão do Pacto Arcanista
 Em meio à era de ouro da Dinastia Ael'noriana, surgiu uma facção crescente dentro da sociedade élfica, o Pacto Arcanista. Motivados por uma curiosidade insaciável e ambição, eles se aprofundaram em reinos proibidos da magia, questionando os limites estabelecidos e buscando ultrapassar os limites de sua compreensão.
