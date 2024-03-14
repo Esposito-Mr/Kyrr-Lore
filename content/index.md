@@ -4,7 +4,7 @@ aliases:
 ---
  Traeg Gros é um continente repleto de aventuras e mistérios. Há cinco mil anos, existia um poderoso reino élfico até que um de seus setores, na tentativa de criar uma magia de 11º nível, acabou destruindo o reino e criando vastas zonas de [[Magia Morta]]. As demais áreas não afetadas possuem magia normal ou [[magia selvagem]], sendo esta última a mais comum. Atualmente, Traeg Gros possui algumas cidades nas poucas zonas não afetadas pela magia morta ou selvagem. A maior cidade é chamada *[[Nouvelle Vie]]*, uma metrópole poderosa governada por um conselho composto por várias raças, humanoides e monstruosas. Esta cidade existe há 500 anos e, nos últimos 150, *Nouvelle vie* firmou um acordo com seu continente vizinho, Astus. Através desse acordo, Astus forneceu tecnologia e *Nouvelle vie* amostras de magia morta para pesquisas da família Kennon.
 
-[[content/Marania 2024-03-13-12-50.png]]
+![[Marania-2024-03-13-12-50.webp]]
 Mapa do Continente de *Traeg Gros*
 ## A Ascensão e Queda do Reino Élfico
 
