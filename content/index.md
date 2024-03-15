@@ -2,7 +2,7 @@
 title: Bem vindos à Traeg Gros
 aliases:
 ---
- Traeg Gros é um continente repleto de aventuras e mistérios. Há cinco mil anos, existia um poderoso reino élfico até que um de seus setores, na tentativa de criar uma magia de 11º nível, acabou destruindo o reino e criando vastas zonas de [[Magia Morta]]. As demais áreas não afetadas possuem magia normal ou [[Magia Selvagem]], sendo esta última a mais comum. Atualmente, Traeg Gros possui algumas cidades nas poucas zonas não afetadas pela magia morta ou selvagem. A maior cidade é chamada *[[Nouvelle Vie]]*, uma metrópole poderosa governada por um conselho composto por várias raças, humanoides e monstruosas. Esta cidade existe há 500 anos e, nos últimos 150, *Nouvelle vie* firmou um acordo com seu continente vizinho, Astus. Através desse acordo, Astus forneceu tecnologia e *Nouvelle vie* amostras de magia morta para pesquisas da família Kennon.
+ Traeg Gros é um continente repleto de aventuras e mistérios. Há cinco mil anos, existia um poderoso reino élfico até que um de seus setores, na tentativa de criar uma magia de 11º nível, acabou destruindo o reino e criando vastas zonas de [[Magia Morta]]. As demais áreas não afetadas possuem magia normal ou [[Magia Selvagem]], sendo esta última a mais comum. Atualmente, Traeg Gros possui algumas cidades nas poucas zonas não afetadas pela magia morta ou selvagem. A maior cidade é chamada *[[Nouvelle Vie]]*, uma metrópole poderosa governada por um conselho composto por várias raças, humanoides e monstruosas. Esta cidade existe há 500 anos e, nos últimos 150, *Nouvelle vie* firmou um acordo com seu continente vizinho, Astus. Através desse acordo, [[Astus]] forneceu tecnologia e *Nouvelle vie* amostras de magia morta para pesquisas da [[Família Kennon]].
 
 ![[Marania-2024-03-13-12-50 (1).webp]]
 ## A Ascensão e Queda do Reino Élfico
@@ -11,7 +11,7 @@ aliases:
 O Reino Élfico, conhecido como [[Ael'nor]], floresceu por milênios sob a Dinastia Ael'noriana. Eram renomados por seu domínio da magia e pela relação harmoniosa com a natureza. Sua capital, Eryn Galen, ostentava magníficas estruturas infundidas com poderosa magia, servindo como um farol da civilização.
 
 #### A Cisão 
-Há cerca de 5.000 anos, uma facção dentro da Dinastia Ael'noriana, conhecida como Pacto Arcanista, embarcou em um projeto de pesquisa proibido. Eles buscaram criar a magia definitiva, uma magia equivalente ao poder dos Deuses. O ritual, realizado no topo das Agulhas da Ascensão, teve um efeito catastrófico. Uma onda de energia caótica varreu a terra, cortando as conexões com a Trama, a fonte da magia.
+Há cerca de 5.000 anos, uma facção dentro da Dinastia Ael'noriana, conhecida como Pacto Arcanista, embarcou em um projeto de pesquisa proibido. Eles buscaram criar a magia definitiva, uma magia equivalente ao poder dos [[Deuses]]. O ritual, realizado no topo das Agulhas da Ascensão, teve um efeito catastrófico. Uma onda de energia caótica varreu a terra, cortando as conexões com a Trama, a fonte da magia.
 
 #### O Cataclismo 
 O Cataclismo, como ficou conhecido, aniquilou instantaneamente Eryn Galen e seus arredores, deixando para trás uma vasta terra devastada pela Magia Morta, desprovida de potencial mágico. Os elfos Ael'nor restantes pereceram no Cataclismo ou sucumbiram à magia caótica que deformou a terra além de sua compreensão.
