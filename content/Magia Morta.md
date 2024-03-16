@@ -4,9 +4,10 @@ draft: false
 tags:
   - Effect
 ---
+
 ## Magia Morta: Uma Terra Onde Magias se Cal​​am
 
-Em *Dungeons & Dragons*, o mundo é vibrante e alimentado por energia mágica, mas em certos locais, essa magia se esvai e morre. Esse fenômeno é conhecido como **Magia Morta**.
+Em _Dungeons & Dragons_, o mundo é vibrante e alimentado por energia mágica, mas em certos locais, essa magia se esvai e morre. Esse fenômeno é conhecido como **Magia Morta**.
 
 Imagine uma região coberta por uma força invisível que age como um amortecedor mágico. Feitiços lançados por aventureiros, itens mágicos e até habilidades extraordinárias fracassam nessas zonas.
 

@@ -4,12 +4,15 @@ draft: false
 tags:
   - Effect
 ---
+
 ## Caos Magnífico: A Magia Selvagem em D&D
-Imagine um mago cuja magia é como um corcel selvagem - poderosa, imprevisível e propensa a disparadas repentinas. Esse é o cerne da **Magia Selvagem** em *Dungeons & Dragons.*
+
+Imagine um mago cuja magia é como um corcel selvagem - poderosa, imprevisível e propensa a disparadas repentinas. Esse é o cerne da **Magia Selvagem** em _Dungeons & Dragons._
 
 Para alguns, é uma dádiva caótica, concedendo efeitos aleatórios que podem ser benéficos ou catastróficos. Para outros, é uma maldição incontrolável, tornando cada conjuração um jogo de azar.
 
 ### Surtos de Magia Selvagem: Quando o Imprevisível Acontece
+
 A Magia Selvagem está intimamente ligada ao **Subclasse Mago Selvagem** do feiticeiro. Sempre que um mago selvagem lança uma magia de 1º nível ou superior, o Mestre pode pedir para ele rolar um d20. Se o resultado for 1, a magia se torna instável, desencadeando um efeito caótico da **Tabela de Surtos de Magia Selvagem**.
 
 Essa tabela é um leque de possibilidades, desde efeitos benéficos como ganhar vantagem em uma jogada de ataque até consequências desastrosas como ser teleportado aleatoriamente.
